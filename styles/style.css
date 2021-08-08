@@ -129,7 +129,8 @@ body {
     margin-top: 4rem;
   }
 
-  .card-item.-cyan {
+  .card-item.-cyan,
+  .card-item.-blue  {
     position: relative;
     top: 15rem;
   }
@@ -138,8 +139,4 @@ body {
     order: 1;
   }
 
-  .card-item.-blue {
-    position: relative;
-    top: 15rem;
-  }
 }
